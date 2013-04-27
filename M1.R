@@ -1,5 +1,4 @@
 
-
 ~~~~~~~~~~~~
 # =============================================
 # German's Stochastic Volatility Model 
