@@ -65,3 +65,5 @@ EMprice <- function(n,trials,type=1){
 }
 
 
+# type =1 for vanilla call, type = 2 for bull-call spread
+
