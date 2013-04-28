@@ -57,8 +57,8 @@ EM <- function(n=100,type=1){
   return(c(payoffCall,payoffBCS)[type])
 }
 
-EMprice <- function(trials,type=1){
-  results <- replicate(trials,EM(100,type))
+EMprice <- function(n,trials,type=1){
+  results <- replicate(trials,EM(n,type))
   mean <- mean(results)
   sd <- sd(results)/sqrt(trials)
   return(c(mean,sd))
