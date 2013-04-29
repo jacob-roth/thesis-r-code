@@ -17,6 +17,7 @@ IMP_B-S.R - Implicit Black-Scholes FDM model
 Section 4/5:
 M1.R - stochastic volatiltiy model 1 to price a European call option
 M2.R - stochastic volatiltiy model 2 to price a European bull-call spread
-M3.R - stochastic volatiltiy model 3 to price a European bull-call spread
+M3.R - stochastic volatiltiy model 3 to price a European call option
+M3-2.R - stochastic volatiltiy model 3 to price a European bull-call spread
 EM.R - Euler-Muruyama Monte Carlo model to price a European call option and a European bull-call spread
 
