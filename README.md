@@ -11,8 +11,8 @@ Section 2:
 1D_Heat.R - 1 dimensional heat equation model
 
 Section 3:
-EXP_B-S.R - Explicit Black-Scholes FDM model
-IMP_B-S.R - Implicit Black-Scholes FDM model
+EXP_B-S.R - explicit Black-Scholes FDM model
+IMP_B-S.R - implicit Black-Scholes FDM model
 
 Section 4/5:
 M1.R - stochastic volatiltiy model 1 to price a European call option
